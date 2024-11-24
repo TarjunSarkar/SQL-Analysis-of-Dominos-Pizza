@@ -47,6 +47,7 @@ Analyzing Data:
 
 SQL Query
 ![image](https://github.com/user-attachments/assets/cd8ee2e1-b517-4824-b5d1-3ad19f42d039)
+
 Result: 21,350 orders placed.
 - Importance: I identified the overall scale of the business operations, which helps in benchmarking monthly or yearly growth.
 
@@ -54,6 +55,7 @@ Result: 21,350 orders placed.
 
 SQL Query
 ![image](https://github.com/user-attachments/assets/cac975ff-eda1-455a-b717-0b3392f65d3c)
+
 Result: $817,860.05.
 - Importance: I calculated the total revenue generated, which is crucial for financial analysis and profitability tracking.
 
